@@ -53,16 +53,17 @@ import pandas as pd
 url = "https://raw.githubusercontent.com/mwaskom/seaborn-data/master/tips.csv"
 df = pd.read_csv(url)
 
-# 1. Rename column
+**1. Rename column**
 df = df.rename(columns={"total_bill": "bill_amount"})
 
-# 2. Filter rows
+**2. Filter rows**
 df_filtered = df[df["bill_amount"] > 20]
 
-# 3. Add new column
+**3. Add new column**
 df_filtered["tip_percent"] = (df_filtered["tip"] / df_filtered["bill_amount"]) * 100
 
-# Save output
+**Save output**
+
 df_filtered.to_csv("processed_tips.csv", index=False)
 Deliverables
 
