@@ -27,8 +27,6 @@ Architecture diagrams
 
 Comparison table
 
-LinkedIn posts
-
 📂 Folder: day-01-etl-elt/
 Contains:
 
