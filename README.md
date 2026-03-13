@@ -1,2 +1,2 @@
-# Azure-Databricks
-This is tutorial and setup for azure databricks
+# Azure-Dataengineering
+This is tutorial for Azure Data Engineering
