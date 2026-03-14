@@ -79,21 +79,44 @@ Output file (processed_tips.csv)
 
 Notes file (day2-notes.md)
 
+**🚀 Day 3 – Batch Processing vs Stream Processing**
+
+## Topics Covered
+
+- Batch Processing
+- Stream Processing
+- Differences between Batch and Streaming
+- Real-world examples
+
+## Deliverables
+
+Folder: `day-03-batch-stream/`
+
+Contains:
+
+- batch-vs-stream.md
+- notes
+- diagrams
+
 📚 Repository Structure
-azure-data-engineering-30-days/
+azure-data-engineering-30-days
 │
-├── day-01-etl-elt/
+├── day-01-etl-elt
 │   ├── ETL-vs-ELT.md
-│   ├── diagrams/
-│   └── notes/
+│   ├── diagrams
+│   └── notes
 │
-├── day-02-etl-practical/
+├── day-02-etl-practical
 │   ├── etl_colab_notebook.ipynb
 │   ├── processed_tips.csv
 │   └── day2-notes.md
 │
-├── datasets/
-│   └── raw/
+├── day-03-batch-stream
+│   ├── batch-vs-stream.md
+│   └── diagrams
+│
+├── datasets
+│   └── raw
 │
 ├── README.md
-└── LICENSE (optional)
+└── LICENSE
