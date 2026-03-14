@@ -92,6 +92,7 @@ Notes file (day2-notes.md)
 
 ## 🚀 Day 3 – Batch Processing vs Stream Processing
 
+![Batch-Stream Architecture](day-03-batch-stream/Batch-Stream.jpeg)
 ### Topics Covered
 
 - Batch Processing
