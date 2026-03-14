@@ -15,6 +15,7 @@ I am documenting everything I learn each day — with code examples, Google Cola
 
 ## 🚀 Day 1 – ETL vs ELT Fundamentals
 
+![ETL Architecture](day-01-etl-elt/etl-elt-diagram.jpeg)
 ### Topics Covered
 
 ETL (Extract–Transform–Load)
