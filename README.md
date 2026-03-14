@@ -110,6 +110,14 @@ Contains:
 - notes
 - diagrams
 
+## 🛠 Technologies Used
+
+- Python
+- Pandas
+- Google Colab
+- GitHub
+- Data Engineering Concepts
+
 ## 📚 Repository Structure
 
 ```
@@ -135,3 +143,9 @@ azure-data-engineering
 ├── README.md
 └── LICENSE
 ```
+## 🌐 Connect With Me
+
+I am documenting this journey on LinkedIn.
+
+Follow my learning journey here:
+🔗 https://linkedin.com/in/biswajit-dash-539252210
