@@ -37,9 +37,9 @@ Architecture diagrams
 
 Notes
 
-**🚀 Day 2 – ETL Hands-On Using Google Colab**
+## 🚀 Day 2 – ETL Hands-On Using Google Colab
 
-## Topics Covered
+### Topics Covered
 
 ✔ Loaded CSV directly from GitHub (raw link)
 ✔ Performed transformations using Pandas
@@ -71,7 +71,7 @@ df_filtered["tip_percent"] = (df_filtered["tip"] / df_filtered["bill_amount"]) *
 
 df_filtered.to_csv("processed_tips.csv", index=False)
 
-## Deliverables
+### Deliverables
 
 📂 day-02-etl-practical/
 Contains:
@@ -82,16 +82,16 @@ Output file (processed_tips.csv)
 
 Notes file (day2-notes.md)
 
-**🚀 Day 3 – Batch Processing vs Stream Processing**
+## 🚀 Day 3 – Batch Processing vs Stream Processing
 
-## Topics Covered
+### Topics Covered
 
 - Batch Processing
 - Stream Processing
 - Differences between Batch and Streaming
 - Real-world examples
 
-## Deliverables
+### Deliverables
 
 Folder: `day-03-batch-stream/`
 
@@ -101,8 +101,9 @@ Contains:
 - notes
 - diagrams
 
-📚 Repository Structure
-azure-data-engineering-30-days
+## 📚 Repository Structure
+
+azure-data-engineering
 │
 ├── day-01-etl-elt
 │   ├── ETL-vs-ELT.md
